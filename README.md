@@ -1,4 +1,10 @@
-[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [CoE and OPM](https://github.com/GSA/coe-opm-acquisitions) > OPM App Replacement Implementation
+##### [CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [CoE and OPM](https://github.com/GSA/coe-opm-acquisitions)
+
+<h1><img src="https://coe.gsa.gov/img/coe-logomark.svg" width="40px" align="top" alt="The Centers of Excellence Logo"> Centers of Excellence / OPM App Replacement</h1>
+
+#### We partner with agencies to accelerate IT modernization, improve public experience, and increase operational efficiency. [Learn more »](https://coe.gsa.gov/about/)
+
+---
 
 # IT Infrastructure Optimization: OPM App Replacement Implementation
 
